@@ -1,5 +1,5 @@
 # Responsive-Product-Landing-Page
 
-Following Tutor advise and researching responsive web designs through online tutorials
+Researching responsive web designs and best practises
 
 Product landing page for Adidas trainer using HTML & CSS
